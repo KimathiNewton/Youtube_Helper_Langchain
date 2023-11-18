@@ -5,9 +5,9 @@ This is a powerful YouTube assistant that allows you to extract insights and ans
 ![Interface](Images/Interface.png)
 ![Interface](Images/Output.png)
 
-THe app is hosted in my ![hugging face space.](https://huggingface.co/spaces/NewtonKimathi/Youtube_Assistant/tree/main)
+THe app is hosted in my [Hugging Face Space](https://huggingface.co/spaces/NewtonKimathi/Youtube_Assistant/tree/main)
 
-  s
+
 # Setup
 You need Python on your system to setup this app. Then you can clone this repo and being at the repo's root.
 
